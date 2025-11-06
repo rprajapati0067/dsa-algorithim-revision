@@ -1,4 +1,4 @@
-# Sorting Revesion
+# Sorting Revision
 ## 1. Given N elements, at every step remove an array element.Cost to remove an element == sum of array of elements present in an array
 ## Find minimum cost to remove all elements. NOTE: First add the cost of removal and then remove it.
    arr[] = 
